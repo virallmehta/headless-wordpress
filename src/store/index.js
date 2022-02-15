@@ -4,7 +4,6 @@ import axios from 'axios'
 import VueAxios from 'vue-axios'
 import { API_URL } from '../api/config'
 
-
 Vue.use(Vuex)
 Vue.use(VueAxios, axios)
 
