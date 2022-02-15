@@ -5,8 +5,8 @@
 /old-*
 /org-*
 /dist
-/components/old-*
-/components/org-*
+/src/components/old-*
+/src/components/org-*
 
 # local env files
 .env.local
