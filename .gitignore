@@ -7,6 +7,12 @@
 /dist
 /src/components/old-*
 /src/components/org-*
+/src/old-*
+/src/org-*
+/src/router/old-*
+/src/router/org-*
+/src/views/old-*
+/src/views/org-*
 
 # local env files
 .env.local
