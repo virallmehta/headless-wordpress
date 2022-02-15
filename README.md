@@ -1,4 +1,6 @@
-# 
+# Headless WordPress with Vuejs
+
+Use Vuejs with WordPress.
 
 ## Project setup
 ```
