@@ -1,9 +1,7 @@
 import Vue from "vue"
 import axios from "axios"
-//import VueAxios from "vue-axios"
+import VueAxios from "vue-axios"
 import { API_URL } from "./config";
-
-// jwt auth username: admin pass: W69I BRH0 GwR2 4lOw UgJu fP6y
 
 /*
 * Common class for calling api from backend(Wordpress)
