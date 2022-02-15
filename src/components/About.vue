@@ -1,7 +1,7 @@
 <template>
     <div class="site-content container">
         <div class="row">
-            About Us Page
+            This is About Us Page
         </div>
     </div>
 </template>
@@ -10,6 +10,5 @@
 
 export default {
     name: 'About',
-    
 }
 </script>

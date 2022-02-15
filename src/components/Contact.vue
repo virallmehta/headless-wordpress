@@ -1,7 +1,7 @@
 <template>
     <div class="site-content container">
         <div class="row">
-            Contact Us Page
+            This is Contact Us Page
         </div>
     </div>
 </template>

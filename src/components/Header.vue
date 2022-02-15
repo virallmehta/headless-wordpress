@@ -4,10 +4,10 @@
             <div class="row">
                 <nav class="navbar navbar-expand">
                     <router-link to="/home" class="navbar-brand">
-                    WP +Vuejs
+                        Headless WordPress
                     </router-link>
-                    <div class="collapse navbar-collapse text-right" id="navbarNav">
-                        <ul class="navbar-nav">
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ml-auto">
                             <li class="nav-item">
                                 <router-link to="/home" class="nav-link">Home</router-link>
                             </li>
@@ -19,6 +19,9 @@
                             </li>
                             <li class="nav-item">                                
                                 <router-link to="/contact" class="nav-link">Contact</router-link>
+                            </li>
+                            <li class="nav-item">                                
+                                <router-link to="/sample" class="nav-link">Sample</router-link>
                             </li>
                         </ul>
                     </div>
